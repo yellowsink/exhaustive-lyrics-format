@@ -1,0 +1,592 @@
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:itunes="http://music.apple.com/lyric-ttml-internal"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  itunes:timing="Word"
+  xml:lang="en"
+  ><head>
+    <metadata
+      ><ttm:agent type="person" xml:id="v1" /><iTunesMetadata
+        xmlns="http://music.apple.com/lyric-ttml-internal"
+        leadingSilence="0.180"
+        ><songwriters
+          ><songwriter>24</songwriter><songwriter>Danny Chung</songwriter
+          ><songwriter>Teddy</songwriter
+          ><songwriter>Vince</songwriter></songwriters
+        ></iTunesMetadata
+      ></metadata
+    >
+  </head>
+  <body dur="2:55.889">
+    <div begin="3.789" end="13.213">
+      <p begin="3.789" end="6.636" itunes:key="L1" ttm:agent="v1">
+        <span begin="3.789" end="4.393">Blackpink</span>
+        <span begin="4.393" end="4.656">in</span>
+        <span begin="4.656" end="5.030">your</span>
+        <span begin="5.030" end="5.392">are</span
+        ><span begin="5.392" end="6.636">a</span>
+      </p>
+      <p begin="10.309" end="13.213" itunes:key="L2" ttm:agent="v1">
+        <span begin="10.309" end="10.970">Blackpink</span>
+        <span begin="10.970" end="11.233">in</span>
+        <span begin="11.233" end="11.607">your</span>
+        <span begin="11.607" end="11.969">are</span
+        ><span begin="11.969" end="13.213">a</span>
+      </p>
+    </div>
+    <div begin="15.540" end="28.298">
+      <p begin="15.540" end="18.364" itunes:key="L3" ttm:agent="v1">
+        <span begin="15.540" end="16.079">컴백이</span>
+        <span begin="16.079" end="16.344">아냐</span>
+        <span begin="16.344" end="16.757">떠난</span>
+        <span begin="16.757" end="17.147">적</span>
+        <span begin="17.147" end="18.364">없으니까</span>
+      </p>
+      <p begin="18.806" end="21.610" itunes:key="L4" ttm:agent="v1">
+        <span begin="18.806" end="19.312">고개들이</span>
+        <span begin="19.312" end="19.638">돌아</span>
+        <span begin="19.638" end="20.233">진정해</span>
+        <span begin="20.233" end="20.478">목</span>
+        <span begin="20.478" end="21.610">꺾일라</span>
+      </p>
+      <p begin="22.071" end="25.340" itunes:key="L5" ttm:agent="v1">
+        <span begin="22.071" end="22.603">분홍빛의</span>
+        <span begin="22.603" end="22.941">얼음</span>
+        <span begin="22.941" end="23.161">Drip,</span>
+        <span begin="23.161" end="23.474">drip,</span>
+        <span begin="23.474" end="23.788">drip,</span>
+        <span begin="23.788" end="24.140">freeze</span>
+        <span begin="24.140" end="24.381">'em</span>
+        <span begin="24.381" end="24.615">on</span>
+        <span begin="24.615" end="25.340">sight</span>
+      </p>
+      <p begin="25.272" end="28.298" itunes:key="L6" ttm:agent="v1">
+        <span begin="25.272" end="25.489">Shut</span>
+        <span begin="25.489" end="25.657">it</span>
+        <span begin="25.657" end="26.125">down,</span>
+        <span begin="26.779" end="27.111">what,</span>
+        <span begin="27.111" end="27.456">what,</span>
+        <span begin="27.456" end="27.817">what,</span>
+        <span begin="27.817" end="28.298">what</span>
+      </p>
+    </div>
+    <div begin="28.618" end="41.464">
+      <p begin="28.618" end="31.441" itunes:key="L7" ttm:agent="v1">
+        <span begin="28.618" end="29.149">게임이</span>
+        <span begin="29.149" end="29.550">아냐</span>
+        <span begin="29.550" end="29.763">진</span>
+        <span begin="29.763" end="30.173">적이</span>
+        <span begin="30.173" end="31.441">없으니까</span>
+      </p>
+      <p begin="31.860" end="34.692" itunes:key="L8" ttm:agent="v1">
+        <span begin="31.860" end="32.332">짖어봐</span>
+        <span begin="32.332" end="32.552">네</span>
+        <span begin="32.552" end="32.915">목에</span>
+        <span begin="32.915" end="33.369">목줄은</span>
+        <span begin="33.369" end="33.781">내</span>
+        <span begin="33.781" end="34.692">거니까</span>
+      </p>
+      <p begin="35.156" end="38.436" itunes:key="L9" ttm:agent="v1">
+        <span begin="35.156" end="35.755">땅바닥에</span>
+        <span begin="35.755" end="36.090">닿은</span>
+        <span begin="36.090" end="36.440">Pedal,</span>
+        <span begin="36.440" end="36.731">we</span>
+        <span begin="36.731" end="36.922">go,</span>
+        <span begin="36.922" end="37.256">two,</span>
+        <span begin="37.256" end="37.638">zero,</span>
+        <span begin="37.638" end="38.436">five</span>
+      </p>
+      <p begin="38.546" end="41.464" itunes:key="L10" ttm:agent="v1">
+        <span begin="38.546" end="38.791">Shut</span>
+        <span begin="38.791" end="38.990">it</span>
+        <span begin="38.990" end="39.452">down,</span>
+        <span begin="40.074" end="40.372">uh,</span>
+        <span begin="40.372" end="40.659">uh,</span>
+        <span begin="40.659" end="40.948">uh,</span>
+        <span begin="40.948" end="41.464">uh</span>
+      </p>
+    </div>
+    <div begin="41.714" end="48.013">
+      <p begin="41.714" end="44.814" itunes:key="L11" ttm:agent="v1">
+        <span begin="41.714" end="41.980">초록</span>
+        <span begin="41.980" end="42.225">비를</span>
+        <span begin="42.225" end="42.449">내려</span>
+        <span begin="42.449" end="42.704">머리</span>
+        <span begin="42.704" end="42.984">위로</span>
+        <span begin="42.984" end="43.343">Don't</span>
+        <span begin="43.343" end="43.693">trip,</span>
+        <span begin="43.947" end="44.814">baby</span>
+      </p>
+      <p begin="44.984" end="48.013" itunes:key="L12" ttm:agent="v1">
+        <span begin="44.984" end="45.517">겸손하게</span>
+        <span begin="45.517" end="45.824">그냥</span>
+        <span begin="45.824" end="46.292">앉아있어</span>
+        <span begin="46.292" end="46.566">Just</span>
+        <span begin="46.566" end="47.071">sit,</span>
+        <span begin="47.071" end="48.013">baby</span>
+      </p>
+    </div>
+    <div begin="48.271" end="54.305">
+      <p begin="48.271" end="51.401" itunes:key="L13" ttm:agent="v1">
+        <span begin="48.271" end="48.576">Praying</span>
+        <span begin="48.576" end="48.707">for</span>
+        <span begin="48.707" end="48.860">my</span>
+        <span begin="48.860" end="49.223">downfall,</span>
+        <span begin="49.361" end="49.656">many</span>
+        <span begin="49.656" end="49.916">have</span>
+        <span begin="49.916" end="50.278">tried,</span>
+        <span begin="50.420" end="51.401">baby</span>
+      </p>
+      <p begin="51.615" end="52.953" itunes:key="L14" ttm:agent="v1">
+        <span begin="51.615" end="51.806">Catch</span>
+        <span begin="51.806" end="51.914">me</span>
+        <span begin="51.914" end="52.044">when</span>
+        <span begin="52.044" end="52.165">you</span>
+        <span begin="52.165" end="52.273">hear</span>
+        <span begin="52.273" end="52.457">my</span>
+        <span begin="52.457" end="52.953">Lamborghini</span>
+      </p>
+      <p begin="52.963" end="54.305" itunes:key="L15" ttm:agent="v1">
+        <span begin="52.963" end="53.231">Go</span>
+        <span begin="53.231" end="53.500">vroom,</span>
+        <span begin="53.500" end="53.768">vroom,</span>
+        <span begin="53.768" end="54.037">vroom,</span>
+        <span begin="54.037" end="54.305">vroom</span>
+      </p>
+    </div>
+    <div begin="54.315" end="1:07.467">
+      <p begin="54.315" end="57.560" itunes:key="L16" ttm:agent="v1">
+        <span begin="54.315" end="54.607">When</span>
+        <span begin="54.607" end="54.888">we</span>
+        <span begin="54.888" end="55.135">pull</span>
+        <span begin="55.135" end="55.349">up,</span>
+        <span begin="55.349" end="55.655">you</span>
+        <span begin="55.655" end="55.887">know,</span>
+        <span begin="55.887" end="56.046">it's</span>
+        <span begin="56.046" end="56.292">a</span>
+        <span begin="56.292" end="57.560">shutdown</span>
+      </p>
+      <p begin="57.570" end="1:01.140" itunes:key="L17" ttm:agent="v1">
+        <span begin="57.570" end="58.013">간판</span>
+        <span begin="58.013" end="58.722">내리고</span>
+        <span begin="58.722" end="59.035">문</span>
+        <span begin="59.035" end="59.533">잠가</span>
+        <span begin="59.533" end="59.894">Shut</span>
+        <span begin="59.894" end="1:01.140">Down</span>
+      </p>
+      <p begin="1:01.339" end="1:02.779" itunes:key="L18" ttm:agent="v1">
+        <span begin="1:01.339" end="1:01.519">Whip</span>
+        <span begin="1:01.519" end="1:01.680">it,</span>
+        <span begin="1:01.680" end="1:01.846">whip</span>
+        <span begin="1:01.846" end="1:01.991">it,</span>
+        <span begin="1:01.991" end="1:02.148">whip</span>
+        <span begin="1:02.148" end="1:02.262">it,</span>
+        <span begin="1:02.262" end="1:02.416">whip</span>
+        <span begin="1:02.416" end="1:02.779">it</span>
+      </p>
+      <p begin="1:02.953" end="1:04.393" itunes:key="L19" ttm:agent="v1">
+        <span begin="1:02.953" end="1:03.133">Whip</span>
+        <span begin="1:03.133" end="1:03.294">it,</span>
+        <span begin="1:03.294" end="1:03.460">whip</span>
+        <span begin="1:03.460" end="1:03.605">it,</span>
+        <span begin="1:03.605" end="1:03.762">whip</span>
+        <span begin="1:03.762" end="1:03.876">it,</span>
+        <span begin="1:03.876" end="1:04.030">whip</span>
+        <span begin="1:04.030" end="1:04.393">it</span>
+      </p>
+      <p begin="1:04.384" end="1:07.467" itunes:key="L20" ttm:agent="v1">
+        <span begin="1:04.384" end="1:04.599">It's</span>
+        <span begin="1:04.599" end="1:04.989">black</span>
+        <span begin="1:04.989" end="1:05.230">and</span>
+        <span begin="1:05.230" end="1:05.441">it's</span>
+        <span begin="1:05.441" end="1:05.751">pink,</span>
+        <span begin="1:05.751" end="1:05.971">once</span>
+        <span begin="1:05.971" end="1:06.248">the</span>
+        <span begin="1:06.248" end="1:06.661">sun</span>
+        <span begin="1:06.661" end="1:07.467">down</span>
+      </p>
+    </div>
+    <div begin="1:07.377" end="1:20.214">
+      <p begin="1:07.377" end="1:10.622" itunes:key="L21" ttm:agent="v1">
+        <span begin="1:07.377" end="1:07.669">When</span>
+        <span begin="1:07.669" end="1:07.950">we</span>
+        <span begin="1:07.950" end="1:08.197">pull</span>
+        <span begin="1:08.197" end="1:08.411">up,</span>
+        <span begin="1:08.411" end="1:08.717">you</span>
+        <span begin="1:08.717" end="1:08.949">know,</span>
+        <span begin="1:08.949" end="1:09.108">it's</span>
+        <span begin="1:09.108" end="1:09.354">a</span>
+        <span begin="1:09.354" end="1:10.622">shutdown</span>
+      </p>
+      <p begin="1:10.680" end="1:14.250" itunes:key="L22" ttm:agent="v1">
+        <span begin="1:10.680" end="1:11.123">간판</span>
+        <span begin="1:11.123" end="1:11.832">내리고</span>
+        <span begin="1:11.832" end="1:12.145">문</span>
+        <span begin="1:12.145" end="1:12.643">잠가</span>
+        <span begin="1:12.643" end="1:13.004">Shut</span>
+        <span begin="1:13.004" end="1:14.250">Down</span>
+      </p>
+      <p begin="1:14.463" end="1:15.903" itunes:key="L23" ttm:agent="v1">
+        <span begin="1:14.463" end="1:14.643">Whip</span>
+        <span begin="1:14.643" end="1:14.804">it,</span>
+        <span begin="1:14.804" end="1:14.970">whip</span>
+        <span begin="1:14.970" end="1:15.115">it,</span>
+        <span begin="1:15.115" end="1:15.272">whip</span>
+        <span begin="1:15.272" end="1:15.386">it,</span>
+        <span begin="1:15.386" end="1:15.540">whip</span>
+        <span begin="1:15.540" end="1:15.903">it</span>
+      </p>
+      <p begin="1:16.106" end="1:17.546" itunes:key="L24" ttm:agent="v1">
+        <span begin="1:16.106" end="1:16.286">Whip</span>
+        <span begin="1:16.286" end="1:16.447">it,</span>
+        <span begin="1:16.447" end="1:16.613">whip</span>
+        <span begin="1:16.613" end="1:16.758">it,</span>
+        <span begin="1:16.758" end="1:16.915">whip</span>
+        <span begin="1:16.915" end="1:17.029">it,</span>
+        <span begin="1:17.029" end="1:17.183">whip</span>
+        <span begin="1:17.183" end="1:17.546">it</span>
+      </p>
+      <p begin="1:17.745" end="1:20.214" itunes:key="L25" ttm:agent="v1">
+        <span begin="1:17.745" end="1:18.015">Keep</span>
+        <span begin="1:18.015" end="1:18.354">watching</span>
+        <span begin="1:18.354" end="1:18.736">me,</span>
+        <span begin="1:18.736" end="1:19.159">shut</span>
+        <span begin="1:19.159" end="1:19.395">it</span>
+        <span begin="1:19.395" end="1:20.214">down</span>
+      </p>
+    </div>
+    <div begin="1:20.443" end="1:33.858">
+      <p begin="1:20.443" end="1:20.996" itunes:key="L26" ttm:agent="v1">
+        <span begin="1:20.443" end="1:20.996">Nah</span>
+      </p>
+      <p begin="1:21.036" end="1:22.581" itunes:key="L27" ttm:agent="v1">
+        <span begin="1:21.036" end="1:21.229">You</span>
+        <span begin="1:21.229" end="1:21.422">don't</span>
+        <span begin="1:21.422" end="1:21.597">wanna</span>
+        <span begin="1:21.597" end="1:21.730">be</span>
+        <span begin="1:21.730" end="1:21.902">on</span>
+        <span begin="1:21.902" end="1:22.134">my</span>
+        <span begin="1:22.134" end="1:22.334">bad</span>
+        <span begin="1:22.334" end="1:22.581">side</span>
+      </p>
+      <p begin="1:22.591" end="1:24.274" itunes:key="L28" ttm:agent="v1">
+        <span begin="1:22.591" end="1:22.928">That's</span>
+        <span begin="1:22.928" end="1:23.264">right</span>
+        <span begin="1:23.264" end="1:23.499">I'm</span>
+        <span begin="1:23.499" end="1:23.937">slidin'</span>
+        <span begin="1:23.937" end="1:24.274">through</span>
+      </p>
+      <p begin="1:24.284" end="1:25.920" itunes:key="L29" ttm:agent="v1">
+        <span begin="1:24.284" end="1:24.488">Bunch</span>
+        <span begin="1:24.488" end="1:24.657">of</span>
+        <span begin="1:24.657" end="1:24.985">wannabes</span>
+        <span begin="1:24.985" end="1:25.219">that</span>
+        <span begin="1:25.219" end="1:25.453">wanna</span>
+        <span begin="1:25.453" end="1:25.686">be</span>
+        <span begin="1:25.686" end="1:25.920">me</span>
+      </p>
+      <p begin="1:25.855" end="1:27.550" itunes:key="L30" ttm:agent="v1">
+        <span begin="1:25.855" end="1:26.102">Me</span>
+        <span begin="1:26.102" end="1:26.470">three</span>
+        <span begin="1:26.470" end="1:26.634">if</span>
+        <span begin="1:26.634" end="1:26.879">I</span>
+        <span begin="1:26.879" end="1:27.249">was</span>
+        <span begin="1:27.249" end="1:27.550">you</span>
+      </p>
+      <p begin="1:27.560" end="1:28.372" itunes:key="L31" ttm:agent="v1">
+        <span begin="1:27.560" end="1:27.763">Been</span>
+        <span begin="1:27.763" end="1:27.966">around</span>
+        <span begin="1:27.966" end="1:28.169">the</span>
+        <span begin="1:28.169" end="1:28.372">world</span>
+      </p>
+      <p begin="1:28.278" end="1:30.611" itunes:key="L32" ttm:agent="v1">
+        <span begin="1:28.278" end="1:28.661">Pearls</span>
+        <span begin="1:28.661" end="1:28.834">on</span>
+        <span begin="1:28.834" end="1:29.014">ya</span>
+        <span begin="1:29.014" end="1:29.178">girl,</span>
+        <span begin="1:29.263" end="1:29.717">VVS's</span>
+        <span begin="1:29.768" end="1:29.942">we</span>
+        <span begin="1:29.942" end="1:30.332">invested,</span>
+        <span begin="1:30.332" end="1:30.611">uh</span>
+      </p>
+      <p begin="1:30.834" end="1:31.948" itunes:key="L33" ttm:agent="v1">
+        <span begin="1:30.834" end="1:30.959">Need</span>
+        <span begin="1:30.959" end="1:31.116">a</span>
+        <span begin="1:31.116" end="1:31.350">lesson</span>
+        <span begin="1:31.350" end="1:31.557">see</span>
+        <span begin="1:31.557" end="1:31.694">the</span>
+        <span begin="1:31.694" end="1:31.948">necklace</span>
+      </p>
+      <p begin="1:31.958" end="1:32.489" itunes:key="L34" ttm:agent="v1">
+        <span begin="1:31.958" end="1:32.135">See</span>
+        <span begin="1:32.135" end="1:32.312">these</span>
+        <span begin="1:32.312" end="1:32.489">dresses</span>
+      </p>
+      <p begin="1:32.499" end="1:33.858" itunes:key="L35" ttm:agent="v1">
+        <span begin="1:32.499" end="1:32.635">We</span>
+        <span begin="1:32.635" end="1:32.778">don't</span>
+        <span begin="1:32.778" end="1:32.888">buy</span>
+        <span begin="1:32.888" end="1:33.021">it</span>
+        <span begin="1:33.021" end="1:33.201">we</span>
+        <span begin="1:33.201" end="1:33.502">request</span>
+        <span begin="1:33.502" end="1:33.688">it,</span>
+        <span begin="1:33.688" end="1:33.858">uh</span>
+      </p>
+    </div>
+    <div begin="1:33.918" end="1:47.009">
+      <p begin="1:33.918" end="1:36.272" itunes:key="L36" ttm:agent="v1">
+        <span begin="1:33.918" end="1:34.099">A</span>
+        <span begin="1:34.099" end="1:34.632">rockstar,</span>
+        <span begin="1:34.703" end="1:34.881">a</span>
+        <span begin="1:34.881" end="1:35.358">popstar,</span>
+        <span begin="1:35.444" end="1:35.637">but</span>
+        <span begin="1:35.637" end="1:36.272">rowdier</span>
+      </p>
+      <p begin="1:36.282" end="1:38.665" itunes:key="L37" ttm:agent="v1">
+        <span begin="1:36.282" end="1:36.547">Say</span>
+        <span begin="1:36.547" end="1:36.812">bye</span>
+        <span begin="1:36.812" end="1:36.957">to</span>
+        <span begin="1:36.957" end="1:37.189">the</span>
+        <span begin="1:37.189" end="1:37.675">paparazzi,</span>
+        <span begin="1:37.732" end="1:37.977">get</span>
+        <span begin="1:37.977" end="1:38.135">my</span>
+        <span begin="1:38.135" end="1:38.400">good</span>
+        <span begin="1:38.400" end="1:38.665">side</span>
+      </p>
+      <p begin="1:38.675" end="1:39.600" itunes:key="L38" ttm:agent="v1">
+        <span begin="1:38.675" end="1:38.819">I'll</span>
+        <span begin="1:38.819" end="1:39.082">smile</span>
+        <span begin="1:39.082" end="1:39.292">for</span>
+        <span begin="1:39.292" end="1:39.600">ya</span>
+      </p>
+      <p begin="1:39.824" end="1:42.817" itunes:key="L39" ttm:agent="v1">
+        <span begin="1:39.824" end="1:40.073">Know</span>
+        <span begin="1:40.073" end="1:40.323">it</span>
+        <span begin="1:40.323" end="1:40.572">ain't</span>
+        <span begin="1:40.572" end="1:40.822">fair</span>
+        <span begin="1:40.822" end="1:41.071">to</span>
+        <span begin="1:41.071" end="1:41.321">ya,</span>
+        <span begin="1:41.321" end="1:41.510">it's</span>
+        <span begin="1:41.510" end="1:41.819">scarin'</span>
+        <span begin="1:41.819" end="1:42.069">ya</span>
+        <span begin="1:42.069" end="1:42.318">like</span>
+        <span begin="1:42.318" end="1:42.568">what</span>
+        <span begin="1:42.568" end="1:42.817">now</span>
+      </p>
+      <p begin="1:42.827" end="1:46.086" itunes:key="L40" ttm:agent="v1">
+        <span begin="1:42.827" end="1:43.377">Blackpink</span>
+        <span begin="1:43.377" end="1:43.551">in</span>
+        <span begin="1:43.551" end="1:43.987">your</span>
+        <span begin="1:43.987" end="1:44.275">area,</span>
+        <span begin="1:44.473" end="1:44.796">the</span>
+        <span begin="1:44.796" end="1:45.163">area</span>
+        <span begin="1:45.163" end="1:45.506">been</span>
+        <span begin="1:45.506" end="1:45.724">Shut</span>
+        <span begin="1:45.724" end="1:46.086">Down</span>
+      </p>
+      <p begin="1:46.096" end="1:47.009" itunes:key="L41" ttm:agent="v1">
+        <span begin="1:46.096" end="1:46.324">It's</span>
+        <span begin="1:46.324" end="1:46.445">a</span>
+        <span begin="1:46.445" end="1:47.009">shutdown</span>
+      </p>
+    </div>
+    <div begin="1:47.013" end="1:53.424">
+      <p begin="1:47.013" end="1:50.263" itunes:key="L42" ttm:agent="v1">
+        <span begin="1:47.013" end="1:47.231">네</span>
+        <span begin="1:47.231" end="1:47.481">다음</span>
+        <span begin="1:47.481" end="1:48.109">답안지야</span>
+        <span begin="1:48.109" end="1:48.446">똑바로</span>
+        <span begin="1:48.446" end="1:48.669">봐</span>
+        <span begin="1:48.669" end="1:49.007">Don't</span>
+        <span begin="1:49.007" end="1:49.467">sleep,</span>
+        <span begin="1:49.467" end="1:50.263">baby</span>
+      </p>
+      <p begin="1:50.433" end="1:53.424" itunes:key="L43" ttm:agent="v1">
+        <span begin="1:50.433" end="1:50.968">뒤집어봐</span>
+        <span begin="1:50.968" end="1:51.294">이건</span>
+        <span begin="1:51.294" end="1:51.830">가격표야</span>
+        <span begin="1:51.830" end="1:52.057">Ain't</span>
+        <span begin="1:52.057" end="1:52.554">cheap,</span>
+        <span begin="1:52.554" end="1:53.424">baby</span>
+      </p>
+    </div>
+    <div begin="1:53.720" end="1:59.779">
+      <p begin="1:53.720" end="1:55.932" itunes:key="L44" ttm:agent="v1">
+        <span begin="1:53.720" end="1:53.941">Stay</span>
+        <span begin="1:53.941" end="1:54.162">in</span>
+        <span begin="1:54.162" end="1:54.384">your</span>
+        <span begin="1:54.384" end="1:54.514">own</span>
+        <span begin="1:54.514" end="1:54.826">lane</span>
+        <span begin="1:54.826" end="1:55.010">'cause</span>
+        <span begin="1:55.010" end="1:55.140">I'm</span>
+        <span begin="1:55.140" end="1:55.342">'bout</span>
+        <span begin="1:55.342" end="1:55.506">to</span>
+        <span begin="1:55.506" end="1:55.932">swerve</span>
+      </p>
+      <p begin="1:57.031" end="1:58.407" itunes:key="L45" ttm:agent="v1">
+        <span begin="1:57.031" end="1:57.228">Catch</span>
+        <span begin="1:57.228" end="1:57.405">me</span>
+        <span begin="1:57.405" end="1:57.588">when</span>
+        <span begin="1:57.588" end="1:57.800">you</span>
+        <span begin="1:57.800" end="1:57.955">hear</span>
+        <span begin="1:57.955" end="1:58.055">my</span>
+        <span begin="1:58.055" end="1:58.407">Lamborghini</span>
+      </p>
+      <p begin="1:58.417" end="1:59.779" itunes:key="L46" ttm:agent="v1">
+        <span begin="1:58.417" end="1:58.689">Go</span>
+        <span begin="1:58.689" end="1:58.962">vroom,</span>
+        <span begin="1:58.962" end="1:59.234">vroom,</span>
+        <span begin="1:59.234" end="1:59.507">vroom,</span>
+        <span begin="1:59.507" end="1:59.779">vroom</span>
+      </p>
+    </div>
+    <div begin="1:59.789" end="2:06.605">
+      <p begin="1:59.789" end="2:03.034" itunes:key="L47" ttm:agent="v1">
+        <span begin="1:59.789" end="2:00.081">When</span>
+        <span begin="2:00.081" end="2:00.362">we</span>
+        <span begin="2:00.362" end="2:00.609">pull</span>
+        <span begin="2:00.609" end="2:00.823">up,</span>
+        <span begin="2:00.823" end="2:01.129">you</span>
+        <span begin="2:01.129" end="2:01.453">know,</span>
+        <span begin="2:01.453" end="2:01.725">it's</span>
+        <span begin="2:01.725" end="2:01.965">a</span>
+        <span begin="2:01.965" end="2:03.034">shutdown</span>
+      </p>
+      <p begin="2:03.035" end="2:06.605" itunes:key="L48" ttm:agent="v1">
+        <span begin="2:03.035" end="2:03.478">간판</span>
+        <span begin="2:03.478" end="2:04.187">내리고</span>
+        <span begin="2:04.187" end="2:04.500">문</span>
+        <span begin="2:04.500" end="2:04.998">잠가</span>
+        <span begin="2:04.998" end="2:05.359">Shut</span>
+        <span begin="2:05.359" end="2:06.605">Down</span>
+      </p>
+    </div>
+    <div begin="2:06.835" end="2:09.905">
+      <p begin="2:06.835" end="2:08.275" itunes:key="L49" ttm:agent="v1">
+        <span begin="2:06.835" end="2:07.015">Whip</span>
+        <span begin="2:07.015" end="2:07.176">it,</span>
+        <span begin="2:07.176" end="2:07.342">whip</span>
+        <span begin="2:07.342" end="2:07.487">it,</span>
+        <span begin="2:07.487" end="2:07.644">whip</span>
+        <span begin="2:07.644" end="2:07.758">it,</span>
+        <span begin="2:07.758" end="2:07.912">whip</span>
+        <span begin="2:07.912" end="2:08.275">it</span>
+      </p>
+      <p begin="2:08.465" end="2:09.905" itunes:key="L50" ttm:agent="v1">
+        <span begin="2:08.465" end="2:08.645">Whip</span>
+        <span begin="2:08.645" end="2:08.806">it,</span>
+        <span begin="2:08.806" end="2:08.972">whip</span>
+        <span begin="2:08.972" end="2:09.117">it,</span>
+        <span begin="2:09.117" end="2:09.274">whip</span>
+        <span begin="2:09.274" end="2:09.388">it,</span>
+        <span begin="2:09.388" end="2:09.542">whip</span>
+        <span begin="2:09.542" end="2:09.905">it</span>
+      </p>
+    </div>
+    <div begin="2:09.845" end="2:12.928">
+      <p begin="2:09.845" end="2:12.928" itunes:key="L51" ttm:agent="v1">
+        <span begin="2:09.845" end="2:10.060">It's</span>
+        <span begin="2:10.060" end="2:10.450">black</span>
+        <span begin="2:10.450" end="2:10.691">and</span>
+        <span begin="2:10.691" end="2:10.902">it's</span>
+        <span begin="2:10.902" end="2:11.212">pink,</span>
+        <span begin="2:11.212" end="2:11.432">once</span>
+        <span begin="2:11.432" end="2:11.709">the</span>
+        <span begin="2:11.709" end="2:12.122">sun</span>
+        <span begin="2:12.122" end="2:12.928">down</span>
+      </p>
+    </div>
+    <div begin="2:12.897" end="2:19.707">
+      <p begin="2:12.897" end="2:16.142" itunes:key="L52" ttm:agent="v1">
+        <span begin="2:12.897" end="2:13.189">When</span>
+        <span begin="2:13.189" end="2:13.470">we</span>
+        <span begin="2:13.470" end="2:13.717">pull</span>
+        <span begin="2:13.717" end="2:13.931">up,</span>
+        <span begin="2:13.931" end="2:14.237">you</span>
+        <span begin="2:14.237" end="2:14.561">know,</span>
+        <span begin="2:14.561" end="2:14.833">it's</span>
+        <span begin="2:14.833" end="2:15.073">a</span>
+        <span begin="2:15.073" end="2:16.142">shutdown</span>
+      </p>
+      <p begin="2:16.137" end="2:19.707" itunes:key="L53" ttm:agent="v1">
+        <span begin="2:16.137" end="2:16.580">간판</span>
+        <span begin="2:16.580" end="2:17.289">내리고</span>
+        <span begin="2:17.289" end="2:17.602">문</span>
+        <span begin="2:17.602" end="2:18.100">잠가</span>
+        <span begin="2:18.100" end="2:18.461">Shut</span>
+        <span begin="2:18.461" end="2:19.707">Down</span>
+      </p>
+    </div>
+    <div begin="2:19.928" end="2:23.008">
+      <p begin="2:19.928" end="2:21.368" itunes:key="L54" ttm:agent="v1">
+        <span begin="2:19.928" end="2:20.108">Whip</span>
+        <span begin="2:20.108" end="2:20.269">it,</span>
+        <span begin="2:20.269" end="2:20.435">whip</span>
+        <span begin="2:20.435" end="2:20.580">it,</span>
+        <span begin="2:20.580" end="2:20.737">whip</span>
+        <span begin="2:20.737" end="2:20.851">it,</span>
+        <span begin="2:20.851" end="2:21.005">whip</span>
+        <span begin="2:21.005" end="2:21.368">it</span>
+      </p>
+      <p begin="2:21.568" end="2:23.008" itunes:key="L55" ttm:agent="v1">
+        <span begin="2:21.568" end="2:21.748">Whip</span>
+        <span begin="2:21.748" end="2:21.909">it,</span>
+        <span begin="2:21.909" end="2:22.075">whip</span>
+        <span begin="2:22.075" end="2:22.220">it,</span>
+        <span begin="2:22.220" end="2:22.377">whip</span>
+        <span begin="2:22.377" end="2:22.491">it,</span>
+        <span begin="2:22.491" end="2:22.645">whip</span>
+        <span begin="2:22.645" end="2:23.008">it</span>
+      </p>
+    </div>
+    <div begin="2:23.172" end="2:25.808">
+      <p begin="2:23.172" end="2:25.808" itunes:key="L56" ttm:agent="v1">
+        <span begin="2:23.172" end="2:23.515">Keep</span>
+        <span begin="2:23.515" end="2:23.987">watching</span>
+        <span begin="2:23.987" end="2:24.290">me,</span>
+        <span begin="2:24.290" end="2:24.617">shut</span>
+        <span begin="2:24.617" end="2:24.865">it</span>
+        <span begin="2:24.865" end="2:25.808">down</span>
+      </p>
+    </div>
+    <div begin="2:39.490" end="2:51.816">
+      <p begin="2:39.490" end="2:43.782" itunes:key="L57" ttm:agent="v1">
+        <span begin="2:39.490" end="2:39.628">Shut</span>
+        <span begin="2:39.628" end="2:39.758">it</span>
+        <span begin="2:39.758" end="2:40.455">down,</span>
+        <span begin="2:40.840" end="2:41.454">Blackpink</span>
+        <span begin="2:41.454" end="2:41.604">in</span>
+        <span begin="2:41.604" end="2:41.905">your</span>
+        <span begin="2:41.905" end="2:42.251">are</span
+        ><span begin="2:42.251" end="2:43.782">a</span>
+      </p>
+      <p begin="2:42.845" end="2:45.775" itunes:key="L58" ttm:agent="v1">
+        <span begin="2:42.845" end="2:42.984">Shut</span>
+        <span begin="2:42.984" end="2:43.148">it</span>
+        <span begin="2:43.148" end="2:43.683">down,</span>
+        <span begin="2:44.301" end="2:44.688">woah,</span>
+        <span begin="2:44.688" end="2:45.085">woah,</span>
+        <span begin="2:45.085" end="2:45.356">woah,</span>
+        <span begin="2:45.356" end="2:45.775">woah</span>
+      </p>
+      <p begin="2:46.063" end="2:50.355" itunes:key="L59" ttm:agent="v1">
+        <span begin="2:46.063" end="2:46.201">Shut</span>
+        <span begin="2:46.201" end="2:46.331">it</span>
+        <span begin="2:46.331" end="2:47.028">down,</span>
+        <span begin="2:47.413" end="2:48.027">Blackpink</span>
+        <span begin="2:48.027" end="2:48.177">in</span>
+        <span begin="2:48.177" end="2:48.478">your</span>
+        <span begin="2:48.478" end="2:48.824">are</span
+        ><span begin="2:48.824" end="2:50.355">a</span>
+      </p>
+      <p begin="2:49.421" end="2:51.816" itunes:key="L60" ttm:agent="v1">
+        <span begin="2:49.421" end="2:49.820">Keep</span>
+        <span begin="2:49.820" end="2:50.187">talking,</span>
+        <span begin="2:50.187" end="2:50.476">we</span>
+        <span begin="2:50.476" end="2:50.692">shut</span>
+        <span begin="2:50.692" end="2:51.053">you</span>
+        <span begin="2:51.053" end="2:51.816">down</span>
+      </p>
+    </div>
+  </body></tt
+>
