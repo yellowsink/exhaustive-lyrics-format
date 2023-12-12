@@ -40,6 +40,10 @@ and also should be openable in a text editor for the most basic of users to read
 It would be nice to use LRC as a guideline for how files may look at a glance, but mainly just by virtue of being the
 main open text format for lyrics.
 
+### Anti-Motivation
+
+[![XKCD 927, How Standards Proliferate](https://imgs.xkcd.com/comics/standards.png)](https://xkcd.com/927/)
+
 ## Features
 
 - Track metadata (performance etc)
@@ -50,7 +54,7 @@ main open text format for lyrics.
 - Audio sync for characters (not recommended for most usage)
 - Multiple singers (no limit on number)
 - Singer metadata
-- One, *or, importantly, more* of those singers on a single line
+- One, *or, importantly, more* of those singers assigned to each line
 - Backing vocals, linked to a singer or not
 - Word/phrase emphasis
 - Sections (chorus, verse, bridge, etc.)
